@@ -1,3 +1,3 @@
-# sodoku
+# Sudoku
 
 Generiert ein lösbares Sudokufeld.
